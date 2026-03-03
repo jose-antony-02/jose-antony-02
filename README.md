@@ -1,19 +1,20 @@
 # Jose Antony 👋
 
-**Data Engineer | MDM & Data Governance | Informatica & Power Platform**
+**Data Engineer | Enterprise MDM & Power BI | Informatica & Power Platform**
 
-Data professional specializing in **Master Data Management, Data Governance, and Power Platform solutions**.  
-Experienced in building scalable data architectures, validation frameworks, and integration pipelines across enterprise environments.
+Data Engineer specializing in **Master Data Management, Data Governance, and Analytics solutions** within enterprise environments.  
+
+Experienced in building scalable **Power Platform applications, Informatica-based integration pipelines, and Power BI reporting frameworks** that support operational and executive decision-making.
 
 ---
 
 ## 🚀 What I Work On
 
-- Enterprise **MDM solutions** (Power Platform & Informatica)
-- Data Integration & ETL Modernization (CDI, CDC)
-- Power Apps & Automation Frameworks
-- Data Governance, Cataloging & Quality
-- Power BI & Microsoft Fabric Analytics
+- Enterprise **Master Data Management (MDM)** solutions  
+- Power BI reporting & analytics dashboards  
+- ETL modernization using **Informatica CDI & CDC**  
+- Power Apps–based validation and governance frameworks  
+- Data cataloging, lineage, and quality implementation  
 
 ---
 
@@ -21,17 +22,19 @@ Experienced in building scalable data architectures, validation frameworks, and 
 
 **Informatica:** CDI, CDQ, CDGC, CAI, MDM SaaS  
 **Power Platform:** Power Apps, Power Automate, Power Pages, Dataverse  
-**Microsoft Data Stack:** Power BI, Microsoft Fabric, Azure, Purview  
+**Analytics:** Power BI, Microsoft Fabric  
+**Microsoft Stack:** Azure, Purview  
 **Languages:** SQL, Python, JavaScript, TypeScript  
 
 ---
 
 ## 🏗 Focus Areas
 
-- Designing structured validation frameworks  
-- Implementing enterprise-grade data governance  
+- Designing enterprise-grade validation frameworks  
+- Implementing structured data governance models  
 - Migrating legacy ETL systems to cloud-native architectures  
-- Building reliable, integration-safe master data systems  
+- Delivering reliable BI solutions for business insight  
+- Ensuring integration-safe master data across systems  
 
 ---
 
