@@ -1,6 +1,6 @@
 # Jose Antony 👋
 
-**Data Engineer | Enterprise MDM | Power Platform & Informatica**
+**Data Engineer | MDM & Data Governance | Informatica & Power Platform**
 
 Data professional specializing in **Master Data Management, Data Governance, and Power Platform solutions**.  
 Experienced in building scalable data architectures, validation frameworks, and integration pipelines across enterprise environments.
